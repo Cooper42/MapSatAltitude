@@ -21,6 +21,12 @@ SAR	2.00	1.00	5000.00	750000.00	800000.00	SCAN SAR Altimetry Sensor
 EPL	2.00	1.00	5000.00	50000.00	250000.00	Magnetometer
 DMMagno	2.00  1.00	30000.00	60000.00	50000.00	DMagic Magnetometer
 DMSoil	3.00  1.50	50000.00	500000.00	250000.00	DMagic Soil Moisture Scanner
+ca_HOLA	5.00	2.50	5000.00	5000.00	500000.00	Coatl Aerospace HOLA LoRes altimetry
+ca_H2RS	2.00	1.00	5000.00	800000.00	750000.00	Coatl Aerospace High Resolution Radar HiRes Altimetry
+ca_TRIXIE	4.00	2.00	5000.00	500000.00	250000.00	Coatl Aerospace TRIXIE Multispectral Imager
+ca_mer_rsp	4.00	2.00	5000.00	500000.00	250000.00 Coatl Aerospace Meridiani RSP Multispectral
+ca_vor_sar	2.00	1.00	5000.00	800000.00	750000.00	Coatl Aerospace SAR15 HiRes altimetry
+mer_dish	5.00	2.50	5000.00	500000.00	5000.00	Coatl Aerospace Meridiani Dish LoRes Altimetry
 %%
 %% Note that in order to keep whitespace parsing correctly, only genuine tab characters should
 %% 	be used as delimiters.
