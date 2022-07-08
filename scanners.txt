@@ -15,6 +15,12 @@ Multi3	4.00	2.00	100000.00	500000.00	750000.00	MS-2A Advanced Multispectral Sens
 VisHi1	1.50	0.75	20000.00	70000.00	250000.00	VS-1 High Resolution Imager
 VisHi2	2.50	1.25	70000.00	350000.00	500000.00	VS-3 Advanced High Resolution Imager
 VisHi3	4.00	2.00	100000.00	200000.00	1000000.00	VS-11 Classified Reconnaissance Imager
+RADAR	5.00	2.50	5000.00	5000.00	500000.00	SCAN RADAR Altimetry Sensor
+Multi	4.00	2.00	5000.00	250000.00	500000.00	SCAN Multispectral Sensor
+SAR	2.00	1.00	5000.00	750000.00	800000.00	SCAN SAR Altimetry Sensor
+EPL	2.00	1.00	5000.00	50000.00	250000.00	Magnetometer
+DMMagno	2.00  1.00	30000.00	60000.00	50000.00	DMagic Magnetometer
+DMSoil	3.00  1.50	50000.00	500000.00	250000.00	DMagic Soil Moisture Scanner
 %%
-%% Note that in order to keep whitespace parsing correctly, only genuine tab characers should
-%% 	be used as delimters.
+%% Note that in order to keep whitespace parsing correctly, only genuine tab characters should
+%% 	be used as delimiters.
